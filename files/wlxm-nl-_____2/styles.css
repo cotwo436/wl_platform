@@ -90,9 +90,9 @@
 #u1023_text {
   border-width:0px;
   position:absolute;
-  left:45px;
+  left:2px;
   top:14px;
-  width:1319px;
+  width:1362px;
   word-wrap:break-word;
 }
 #u1024_div {
@@ -2222,7 +2222,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:45px;
+  width:80px;
   height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -2253,7 +2253,7 @@
   position:absolute;
   left:-3px;
   top:0px;
-  width:45px;
+  width:80px;
   height:50px;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
   font-weight:700;
@@ -2267,7 +2267,7 @@
   position:absolute;
   left:2px;
   top:14px;
-  width:41px;
+  width:76px;
   word-wrap:break-word;
 }
 #u1081_div {
